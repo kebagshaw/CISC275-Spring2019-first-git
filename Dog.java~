@@ -1,0 +1,12 @@
+//Dog.java
+//Kate Bagshaw
+
+public class Dog{
+    String name;
+    int numLegs;
+
+    public String toString(){
+	System.out.println(name + " has " + numLegs + " legs.");
+    }
+
+}
